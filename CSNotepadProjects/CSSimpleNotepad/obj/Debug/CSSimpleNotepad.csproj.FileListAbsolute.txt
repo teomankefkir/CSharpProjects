@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\bin\Debug\CSSimpleNotepad.exe.config
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\bin\Debug\CSSimpleNotepad.exe
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\bin\Debug\CSSimpleNotepad.pdb
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.frmSimpleNotepad.resources
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.exe
+C:\Users\teoma\source\repos\CSNotepadProjects\CSSimpleNotepad\obj\Debug\CSSimpleNotepad.pdb

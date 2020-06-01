@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\bin\Debug\CSScreenKeyboardQTr.exe.config
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\bin\Debug\CSScreenKeyboardQTr.exe
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\bin\Debug\CSScreenKeyboardQTr.pdb
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.frmScreenKeyboardQTr.resources
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.exe
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQTr\obj\Debug\CSScreenKeyboardQTr.pdb

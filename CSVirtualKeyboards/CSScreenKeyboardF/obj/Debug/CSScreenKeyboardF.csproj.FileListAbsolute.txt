@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\bin\Debug\CSScreenKeyboardF.exe.config
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\bin\Debug\CSScreenKeyboardF.exe
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\bin\Debug\CSScreenKeyboardF.pdb
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.exe
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.pdb
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardF\obj\Debug\CSScreenKeyboardF.frmScreenKeyboardFTr.resources

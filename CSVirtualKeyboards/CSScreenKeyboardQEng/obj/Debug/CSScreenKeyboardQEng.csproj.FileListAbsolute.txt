@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\bin\Debug\CSScreenKeyboardQEng.exe.config
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\bin\Debug\CSScreenKeyboardQEng.exe
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\bin\Debug\CSScreenKeyboardQEng.pdb
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.frmScreenKeyboardQEng.resources
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.exe
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.pdb
+C:\Users\teoma\source\repos\CSVirtualKeyboards\CSScreenKeyboardQEng\obj\Debug\CSScreenKeyboardQEng.csprojAssemblyReference.cache

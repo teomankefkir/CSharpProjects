@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\bin\Debug\CSSimpleWebBrowser.exe.config
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\bin\Debug\CSSimpleWebBrowser.exe
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\bin\Debug\CSSimpleWebBrowser.pdb
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.frmSimpleWebBrowser.resources
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.exe
+C:\Users\teoma\source\repos\CSWebBrowsers\CSSimpleWebBrowser\obj\Debug\CSSimpleWebBrowser.pdb

@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\bin\Debug\CSSimplePaintTool.exe.config
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\bin\Debug\CSSimplePaintTool.exe
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\bin\Debug\CSSimplePaintTool.pdb
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.frmSimplePaintTool.resources
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.exe
+C:\Users\teoma\source\repos\CSPaintTools\CSSimplePaintTool\obj\Debug\CSSimplePaintTool.pdb

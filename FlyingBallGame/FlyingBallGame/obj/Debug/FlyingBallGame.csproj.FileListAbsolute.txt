@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\bin\Debug\FlyingBallGame.exe.config
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\bin\Debug\FlyingBallGame.exe
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\bin\Debug\FlyingBallGame.pdb
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.Form_FlyingBall.resources
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.Properties.Resources.resources
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.exe
+C:\Users\teoma\source\repos\FlyingBallGame\FlyingBallGame\obj\Debug\FlyingBallGame.pdb

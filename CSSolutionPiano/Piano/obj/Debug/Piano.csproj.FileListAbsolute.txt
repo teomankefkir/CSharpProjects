@@ -1,0 +1,10 @@
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\bin\Debug\Piano.exe.config
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\bin\Debug\Piano.exe
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\bin\Debug\Piano.pdb
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.csprojAssemblyReference.cache
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.frmPiano.resources
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.csproj.GenerateResource.cache
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.exe
+C:\Users\teoma\source\repos\CSSolutionPiano\Piano\obj\Debug\Piano.pdb
